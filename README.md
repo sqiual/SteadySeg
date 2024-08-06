@@ -1,5 +1,5 @@
 # SteadySeg
-This project is the official implementation of SteadySeg: Steadiness Recognition for Maritime Trajectory Segmentation with Cross-Training
+This project is the official implementation of SteadySeg: Improving Maritime Trajectory Staging by Steadiness Recognition
 
 The project is conducted based on data provided by Danish Maritime Authority (DMA) (https://dma.dk/safety-at-sea/navigational-information/ais-data) and the Fleet Register, European Commission (https://webgate.ec.europa.eu/fleet-europa/search_en)
 
